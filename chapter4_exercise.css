@@ -1,0 +1,32 @@
+.header{
+  width: 100%;
+  height: 50px;
+  background-color: red;
+}
+
+.main-visual{
+  width: 100%;
+  height: 500px;
+  background-color: orange;
+}
+
+.main{
+  width: 960px;
+  height: 1400px;
+  background-color: lightgreen;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.center{
+  width: 500px;
+  height: 1400px;
+  background-color: rgba(17, 153, 17, 0.699);
+}
+
+.footer{
+  width: 100%;
+  height: 100px;
+  background-color: blue;
+}
